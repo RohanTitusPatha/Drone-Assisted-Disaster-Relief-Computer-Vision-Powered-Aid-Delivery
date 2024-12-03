@@ -88,7 +88,7 @@ Here are some sample results from our model:
 - M. Jaswanth Kumar
 - Dhanush Bitra
 - Rohan Titus
-- Dill Jazz
+- Dill Jazeel
 - Cinu C. Kiliroor
 
 ## **Publication**
