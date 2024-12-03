@@ -84,7 +84,6 @@ Here are some sample results from our model:
 
 ## **Contributors**
 
-- [Your Name](https://github.com/yourusername) - Lead Developer
 - M. Jaswanth Kumar
 - Dhanush Bitra
 - Rohan Titus
